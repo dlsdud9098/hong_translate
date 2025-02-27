@@ -177,3 +177,10 @@ pyrightconfig.json
 
 # kospeech 폴더 제외
 kospeech/
+
+# 음성 데이터 제외
+downloaded_audio
+downloaded_audio (사본)
+
+# 토큰 파일 제외
+token.txt
