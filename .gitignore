@@ -176,11 +176,12 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # kospeech 폴더 제외
-kospeech/
+kospeech
 
 # 음성 데이터 제외
 downloaded_audio
 downloaded_audio (사본)
+new_audio
 
 # 토큰 파일 제외
 token.txt
